@@ -1,0 +1,35 @@
+body{
+                padding:20px;
+
+                font-family:Arial;
+                font-size: 18px;
+                background-color:lightblue;               
+}
+
+.principal{
+                margin: auto;
+                width: 60%;
+                height: 610px;
+                background-color: white;
+                border:4px inset black;
+}
+
+.menu1{
+                width: 96%;
+                height: 100px;
+                background-color: #999999;
+              
+                border:4px inset black;
+                font-family: cursive;
+                font-size: 24px;
+}
+
+
+.contenido{
+                 width: 80%;
+                height: 470px;
+                background-color: white;
+                margin: 20px ;
+                border:4px inset black;
+}
+
